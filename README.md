@@ -1,4 +1,4 @@
-# AI Logo Verification Project 
+# AI Logo Verification Project  (on prototype experimentation stage)
 
 This project uses AI and image processing techniques to verify the authenticity of brand logos by comparing original and fake logos.
 
