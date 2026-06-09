@@ -1,4 +1,5 @@
- 
+# Trademark & Copyright Violation Detection
+
 
 A multi-technique pipeline for detecting fake/counterfeit brand logos and plagiarized text content using computer vision, deep learning, and NLP.
 
