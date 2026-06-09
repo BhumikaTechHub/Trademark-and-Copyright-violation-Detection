@@ -1,4 +1,4 @@
-# AI Logo Verification Project  (on prototype experimentation stage)
+ 
 
 A multi-technique pipeline for detecting fake/counterfeit brand logos and plagiarized text content using computer vision, deep learning, and NLP.
 
